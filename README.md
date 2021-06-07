@@ -26,3 +26,6 @@ Input: "(a&b&c)|~a"
 Output: yes
 Input: "a&(b|c)&~b&~c"
 Output: no
+
+### Use Example
+<img width="844" alt="optimization" src="https://user-images.githubusercontent.com/42686771/121092901-e2043f00-c7b1-11eb-9091-087b5a7cab2a.png">
